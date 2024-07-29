@@ -1,0 +1,51 @@
+*** Message Type: error ***
+When: Mon Jul 29 08:52:21 PM CEST 2024
+couldn't open "/common/5S_git/peter/TestUVMSolutions/s5s_dpr/example/rundir/.simvision/20413_peter_s5s.5systems_autosave.tcl.svcf": no such file or directory
+    while executing
+"# Compiled -- no source code available
+error "called a copy of a compiled script""
+    (procedure "::savescript::autosave" line 1)
+    invoked from within
+"::savescript::autosave $filename"
+    (object "::application" method "::Application::auto-save" body line 18)
+    invoked from within
+"::application auto-save"
+    (in namespace inscope "::Application" script line 1)
+    invoked from within
+"namespace inscope ::Application {::application auto-save}"
+    ("after" script)
+ 
+*** Message Type: error ***
+When: Mon Jul 29 08:52:21 PM CEST 2024
+couldn't open "/common/5S_git/peter/TestUVMSolutions/s5s_dpr/example/rundir/.simvision/20413_peter_s5s.5systems_autosave.tcl.svcf": no such file or directory
+    while executing
+"# Compiled -- no source code available
+error "called a copy of a compiled script""
+    (procedure "::savescript::autosave" line 1)
+    invoked from within
+"::savescript::autosave $filename"
+    (object "::application" method "::Application::auto-save" body line 18)
+    invoked from within
+"::application auto-save"
+    (in namespace inscope "::Application" script line 1)
+    invoked from within
+"namespace inscope ::Application {::application auto-save}"
+    ("after" script)
+ 
+*** Message Type: error ***
+When: Mon Jul 29 08:52:21 PM CEST 2024
+couldn't open "/common/5S_git/peter/TestUVMSolutions/s5s_dpr/example/rundir/.simvision/20413_peter_s5s.5systems_autosave.tcl.svcf": no such file or directory
+    while executing
+"# Compiled -- no source code available
+error "called a copy of a compiled script""
+    (procedure "::savescript::autosave" line 1)
+    invoked from within
+"::savescript::autosave $filename"
+    (object "::application" method "::Application::auto-save" body line 18)
+    invoked from within
+"::application auto-save"
+    (in namespace inscope "::Application" script line 1)
+    invoked from within
+"namespace inscope ::Application {::application auto-save}"
+    ("after" script)
+ 
